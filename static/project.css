@@ -12353,7 +12353,7 @@ a {
 .footer {
   padding-top: 32px;
   padding-bottom: 32px;
-  background-image: url("/web/20190408163927im_/https://zinica.s3.amazonaws.com/static/zinica/images/footer.jpg");
+  background-image: url("images/logo-footer.png");
   background-repeat: no-repeat;
   background-size: cover; }
   .footer h2, .footer h4, .footer p, .footer b, .footer a {
@@ -12511,7 +12511,7 @@ a {
     .partners .partners-list .partner .title {
       font-size: 14px; }
   .footer {
-    background-image: url("/web/20190408163927im_/https://zinica.s3.amazonaws.com/static/zinica/images/footer-background-zinica.jpg"); }
+    background-image: url("images/footer-background-zinica.jpg")}
     .footer .footer-content-container {
       display: -ms-flexbox;
       display: flex; }
@@ -12578,7 +12578,7 @@ a {
 
 /*
      FILE ARCHIVED ON 16:39:27 Apr 08, 2019 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:57:40 May 03, 2024.
+     INTERNET ARCHIVE ON 00:05:24 May 22, 2024.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -12586,13 +12586,13 @@ a {
 */
 /*
 playback timings (ms):
-  captures_list: 0.989
-  exclusion.robots: 0.121
-  exclusion.robots.policy: 0.106
-  cdx.remote: 0.096
-  esindex: 0.013
-  LoadShardBlock: 49.904 (3)
-  PetaboxLoader3.datanode: 101.617 (5)
-  load_resource: 958.486 (2)
-  PetaboxLoader3.resolve: 119.925 (2)
+  captures_list: 0.873
+  exclusion.robots: 0.1
+  exclusion.robots.policy: 0.085
+  esindex: 0.012
+  cdx.remote: 7.933
+  LoadShardBlock: 376.229 (3)
+  PetaboxLoader3.resolve: 837.207 (4)
+  PetaboxLoader3.datanode: 120.056 (5)
+  load_resource: 627.205 (2)
 */

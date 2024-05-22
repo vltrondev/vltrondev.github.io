@@ -35,7 +35,7 @@ Issues with the above approach:
 }
 /*
      FILE ARCHIVED ON 16:39:23 Apr 08, 2019 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:58:13 May 03, 2024.
+     INTERNET ARCHIVE ON 00:05:23 May 22, 2024.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -43,13 +43,13 @@ Issues with the above approach:
 */
 /*
 playback timings (ms):
-  captures_list: 0.698
-  exclusion.robots: 0.084
-  exclusion.robots.policy: 0.073
-  cdx.remote: 0.065
-  esindex: 0.01
-  LoadShardBlock: 102.248 (3)
-  PetaboxLoader3.datanode: 182.856 (5)
-  PetaboxLoader3.resolve: 315.351 (3)
-  load_resource: 2831.698 (2)
+  captures_list: 0.801
+  exclusion.robots: 0.087
+  exclusion.robots.policy: 0.074
+  esindex: 0.011
+  cdx.remote: 6.515
+  LoadShardBlock: 62.991 (3)
+  PetaboxLoader3.datanode: 79.824 (5)
+  PetaboxLoader3.resolve: 83.196 (3)
+  load_resource: 143.837 (2)
 */
